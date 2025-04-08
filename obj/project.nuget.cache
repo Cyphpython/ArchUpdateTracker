@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PY6cpXXiupQ=",
+  "success": true,
+  "projectFilePath": "/home/kali/Documents/C-sharpProject/ArchTracker/ArchTracker.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.3/microsoft.netcore.app.runtime.linux-x64.9.0.3.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.3/microsoft.aspnetcore.app.runtime.linux-x64.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.AssemblyInfoInputs.cache
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.AssemblyInfo.cs
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.csproj.CoreCompileInputs.cache
+/home/kali/Documents/C-sharpProject/ArchTracker/bin/Debug/net9.0/ArchTracker
+/home/kali/Documents/C-sharpProject/ArchTracker/bin/Debug/net9.0/ArchTracker.deps.json
+/home/kali/Documents/C-sharpProject/ArchTracker/bin/Debug/net9.0/ArchTracker.runtimeconfig.json
+/home/kali/Documents/C-sharpProject/ArchTracker/bin/Debug/net9.0/ArchTracker.dll
+/home/kali/Documents/C-sharpProject/ArchTracker/bin/Debug/net9.0/ArchTracker.pdb
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.dll
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/refint/ArchTracker.dll
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.pdb
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ArchTracker.genruntimeconfig.cache
+/home/kali/Documents/C-sharpProject/ArchTracker/obj/Debug/net9.0/ref/ArchTracker.dll
