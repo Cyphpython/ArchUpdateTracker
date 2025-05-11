@@ -21,7 +21,7 @@ class ArchTracker
         Console.WriteLine(output);
 
         Console.WriteLine("\nDo you want to update this/those app ? (O/n)");
-        string answer = Console.ReadLine()?.ToLower(); //Check if not null and lower it in case of uppercase
+        string answer = Console.ReadLine().ToLower(); //Check if not null and lower it in case of uppercase
 
         if (answer == "o")
         {

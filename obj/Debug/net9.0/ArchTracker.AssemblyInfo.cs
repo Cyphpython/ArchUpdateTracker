@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15358455340bc8b6351b80d8c835494ec1d97cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
